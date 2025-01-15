@@ -1,2 +1,2 @@
 # TestDemo2
-This is s demo repo
+This is a demo repo
